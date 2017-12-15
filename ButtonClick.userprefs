@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5BD92A25-2385-4CA4-9180-1E9DDD983199}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ButtonClick/ButtonClickPage.xaml.cs">
+    <Files>
+      <File FileName="ButtonClick/ButtonClickPage.xaml.cs" Line="9" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ButtonClick.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A9CFE706-37C8-4519-A69C-3B324DB3ED78">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ButtonClick.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
